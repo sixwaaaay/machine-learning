@@ -1,7 +1,7 @@
+import numpy as np
 import pytest
 
 from regression.linear import linear_regression
-import numpy as np
 
 
 def test_linear_single_variable():
