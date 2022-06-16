@@ -1,8 +1,7 @@
 #  Author: [sixwaaaay](https://github.com/sixwaaaay)
 #  Description: ridge regression
-
-from sklearn.linear_model import Ridge
 import numpy as np
+from sklearn.linear_model import Ridge
 
 
 def ridge_regression(x: np.ndarray, y: np.ndarray, alpha: float) -> Ridge:
