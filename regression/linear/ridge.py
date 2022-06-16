@@ -1,6 +1,5 @@
 #  Author: [sixwaaaay](https://github.com/sixwaaaay)
 #  Description: ridge regression
-
 import numpy as np
 from sklearn.linear_model import Ridge
 
